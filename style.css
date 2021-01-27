@@ -1,5 +1,12 @@
 body {
-	background-color: #eee;
+	background-color: #fdfcfa;
+}
+
+h1 {
+	 font-family: Helvetica, Sans-Serif;
+	font-weight: 300;
+	font-size: 50pt;
+	font-style: normal;
 }
 
 .splash {
@@ -8,7 +15,16 @@ body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	font-family: nobel, sans-serif;
 }
 
 #centerpiece {
+	.title {
+	max-width: 100%;
+	font-size: 350%;
+	margin-top: 5%;
+	margin-bottom: 2%;
+}
+
+
 }
